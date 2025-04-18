@@ -1,1 +1,3 @@
-<img src="https://raw.githubusercontent.com/Davsterphoenix/profiledata/main/github-snake-dark.svg" alt="GitHub Snake" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davsterphoenix/profiledata/main/github-snake-dark.svg" alt="GitHub Snake" />
+</p>
